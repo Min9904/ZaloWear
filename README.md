@@ -1,9 +1,11 @@
 # Zalo Watch Bridge
 
 Shows incoming Zalo calls full screen on a Wear OS watch, vibrates until the call is answered or ends,
-and lets you answer / answer on speaker / decline / hang up from the watch.
+and lets you answer / answer on speaker / decline / hang up from the watch, tested on GW6C 47mm.
 
 Two apps: **phone** (reads Zalo's call notification) and **wear** (the watch UI). Both are required.
+
+No messaging because it is uncertain if I can get banned.
 
 ## Install
 
